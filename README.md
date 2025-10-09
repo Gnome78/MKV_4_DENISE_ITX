@@ -5,7 +5,7 @@ You can use MK3 original or Demon firmware on this board.
 
 2 'issues' on this board
 - Transistors silk are wrong (inverted)
-- Pins are also inverted... -_-'   Up go to Down and Down go to Up (see adapter directory to correct that)
+- Pins are also inverted... -_-'   Left go to Right and Right go to Left (see adapter directory to correct that)
 
 Card are tested well on Denis Itx with MK3 and Demon firmware.
 
