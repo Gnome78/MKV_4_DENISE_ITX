@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ECC43DCAI-S189")(type "KiCad")(uri "${KIPRJMOD}/ECC43DCAI-S189/ECC43DCAI-S189.kicad_sym")(options "")(descr ""))
+  (lib (name "ariii")(type "KiCad")(uri "${KIPRJMOD}/ECC43DCAI-S189/ariii.kicad_sym")(options "")(descr ""))
+  (lib (name "ZVP2106A")(type "KiCad")(uri "${KIPRJMOD}/ZVP2106A/ZVP2106A.kicad_sym")(options "")(descr ""))
+  (lib (name "3386F-1-103LF")(type "KiCad")(uri "${KIPRJMOD}/3386F-1-103LF/3386F-1-103LF.kicad_sym")(options "")(descr ""))
+  (lib (name "EDAC_395_Series_Connector")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/EDAC_395_Series_Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "Actionrepla5_Logic_Flip_Flops")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/Actionrepla5_Logic_Flip_Flops.kicad_sym")(options "")(descr ""))
+)
