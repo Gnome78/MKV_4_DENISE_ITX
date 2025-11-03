@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.2"
+      "Version": "9.0.5"
     },
-    "CreationDate": "2025-06-19T05:33:31+06:00"
+    "CreationDate": "2025-11-02T09:01:33+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -51,17 +51,27 @@
     },
     {
       "Path": "Amiga500 Actionreplay 5-In1_Cu.g1",
-      "FileFunction": "Copper,L5,Inr",
+      "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "Amiga500 Actionreplay 5-In2_Cu.g2",
-      "FileFunction": "Copper,L7,Inr",
+      "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "Amiga500 Actionreplay 5-B_Cu.gbl",
       "FileFunction": "Copper,L4,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Amiga500 Actionreplay 5-F_Adhesive.gta",
+      "FileFunction": "Glue,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Amiga500 Actionreplay 5-B_Adhesive.gba",
+      "FileFunction": "Glue,Bot",
       "FilePolarity": "Positive"
     },
     {

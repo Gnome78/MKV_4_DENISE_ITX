@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.8,
-          "width": 1.325
+          "height": 1.57,
+          "width": 6.35
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,7 +60,15 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|190668018|38829400|28e60c05-69c4-41f8-9ed0-7e437cdfe2cc|8dd91488-6f9c-417a-9125-187bc24b3a97",
+          "lib_footprint_mismatch|100148000|65307400|38df670d-8822-4bb3-b775-4576874f745b|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|91004000|58327158|22ffd624-a9d1-4c54-bf8f-846b8503a3b3|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|91004000|65117884|d0eaf1fc-458b-41f3-8cb1-4c894cba33b8|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -69,6 +77,10 @@
         ],
         [
           "starved_thermal|97673000|63467400|a58d00e5-5981-4d6d-8ee9-199a3a77915a|8503d752-7269-411d-900f-2847173793b7|F.Cu",
+          ""
+        ],
+        [
+          "via_dangling|192477000|34892400|16f36c4d-de03-4f30-988f-aea0e056bfa5|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -519,7 +531,7 @@
       "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Amiga500 Actionreplay 5.step",
       "svg": "",
       "vrml": ""
     },
