@@ -1,0 +1,12 @@
+MOD to to to have a working MK3 card :
+
+Currently, the expansion ports available on the ‘Denise ITX’ PCBN are NOT wired for the IPL0, IPL1, and IPL2 signals.
+Action Replay needs these signals to function.
+
+Therefore, you must connect them to the port.
+
+- IPL0 pin25 of CPU is already connected to PullUp with R35, you need to connect also to Pin 40 (see DeniseITX_PinOutPort.jpg and DeniseITX_IPLx.jpg).
+- IPL1 pin24 of CPU is already connected to PullUp with R35, you need to connect also to Pin 42 (see DeniseITX_PinOutPort.jpg and DeniseITX_IPLx.jpg)
+- IPL2 pin23 of CPU is already connected to PullUp with R35, you need to connect also to Pin 44 (see DeniseITX_PinOutPort.jpg and DeniseITX_IPLx.jpg)
+
+That all :)
